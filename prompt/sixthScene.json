@@ -1,0 +1,55 @@
+{
+    "scene_id": "S06",
+    "scene_number": 6,
+    "total_scenes": 8,
+    "project": "AI FOR KIDS",
+    "competition": "Prompt Battle 2026",
+    "timestamp": "0:38 – 0:47",
+    "duration_seconds": 9,
+    "title": "The Future Belongs to Young Innovators",
+    "video_prompt": {
+        "subject": "A diverse group of students aged 10–14 working together in a futuristic AI innovation lab",
+        "action": "Students collaborate on holographic coding screens, assemble intelligent mini robots, and present advanced AI inventions. One girl confidently presses a glowing golden Deploy button, triggering a spectacular launch of a virtual AI model into a giant holographic display. As the system activates successfully, she raises her fist in triumph in cinematic slow motion while classmates cheer around her.",
+        "setting": "Ultra-modern futuristic technology lab filled with holographic displays, robotic prototypes, glowing transparent workstations, floating data interfaces, and illuminated geometric digital wall patterns",
+        "background_elements": "Animated AI code streams floating in the air, robotic arms assembling parts in background, glowing lab tables, floating dashboards with English UI labels, digital particles orbiting active machines",
+        "camera_movement": "Begins with epic wide-angle establishing shot sweeping across the entire lab, transitions into dynamic side tracking shot through students working, then slow-motion close-up on the girl's triumphant moment, ending with dramatic pull-back aerial drone-style reveal of the entire glowing innovation lab",
+        "cinematic_effects": "Volumetric lighting beams, lens flares from holographic displays, floating spark particles, glowing hologram reflections on faces, cinematic slow-motion energy burst at AI launch moment",
+        "color_grade": "Deep teal, radiant gold, bright white highlights with premium cinematic sci-fi contrast",
+        "style": "Futuristic, epic, cinematic, inspiring, photorealistic, emotionally powerful",
+        "aspect_ratio": "16:9",
+        "quality": "4K ultra cinematic quality, lens flares, volumetric lighting, ultra high detail photorealism",
+        "creative_enhancements": [
+            "Holographic English code streams animate upward like digital waterfalls around the students",
+            "The Deploy button emits expanding golden energy rings when activated",
+            "Virtual AI model assembles in midair from glowing light fragments before fully launching",
+            "Triumph moment includes dramatic slow-motion spark burst and holographic light pulse across the lab"
+        ]
+    },
+    "voiceover": {
+        "language": "English",
+        "text": "This technology is in your hands. Are you ready?",
+        "delivery_style": "Bold, inspiring, motivational narrator tone with dramatic emphasis on 'Are you ready?'"
+    },
+    "audio": {
+        "sfx": "Rising orchestral swell, futuristic interface sounds, holographic activation pulses, robot beeps, energetic deployment burst sound",
+        "music": "Epic cinematic orchestral build with powerful percussion, inspiring crescendo peaking at the triumph moment"
+    },
+    "key_visual_elements": [
+        "Holographic screens displaying English AI code and futuristic dashboards",
+        "Glowing geometric wall patterns in teal and gold",
+        "AI robot prototypes on illuminated lab tables",
+        "Golden Deploy button with pulsing animated energy rings",
+        "Virtual AI model forming and launching in giant holographic display"
+    ],
+    "emotion": "Pride, inspiration, ambition, empowerment, triumph",
+    "visual_symbolism": {
+        "theme": "Young minds shaping tomorrow’s technology",
+        "symbolic_elements": [
+            "Golden Deploy button symbolizes courage to create and launch ideas",
+            "Rising holographic code streams represent limitless innovation",
+            "The girl’s victory gesture reflects confidence in the next generation of creators"
+        ]
+    },
+    "tts_tool": "TTSMaker.com — paste voiceover text above",
+    "video_tool": "Google Labs Veo 2 — paste video_prompt fields above"
+}

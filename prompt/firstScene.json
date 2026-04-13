@@ -1,0 +1,48 @@
+{
+    "scene_id": "S01",
+    "scene_number": 1,
+    "total_scenes": 8,
+    "project": "AI FOR KIDS",
+    "competition": "Prompt Battle 2026",
+    "timestamp": "0:00 – 0:07",
+    "duration_seconds": 7,
+    "title": "The World Waking Up",
+    "video_prompt": {
+        "subject": "A 10-year-old Tamil girl in neat school uniform with a thick braided hairstyle tied with blue ribbons, lying on a wooden cot beside her schoolbooks",
+        "action": "She slowly opens her eyes as the first sunlight touches her face, reaches for her glowing phone, and smiles as an AI assistant greets her in English with animated floating holographic icons",
+        "setting": "A peaceful Tamil village bedroom at dawn with traditional decor, clay lamp on a wooden shelf, breeze moving thin cotton curtains, and golden sunlight streaming through a half-open window overlooking coconut trees",
+        "background_elements": "Rooster crowing in distance, swaying palm shadows on the wall, framed family photo, school bag hanging near the bed, subtle dust particles sparkling in sunlight",
+        "camera_movement": "Slow cinematic push-in from wide bedroom view toward her face, ending in close-up with soft sunlight lens flare crossing frame",
+        "cinematic_effects": "Gentle floating dust motes, volumetric sun rays, dreamy lens bloom, shallow depth of field focus shift from window light to phone screen",
+        "color_grade": "Warm amber, sunrise gold, soft white highlights with pastel village tones",
+        "style": "Cinematic, emotional, realistic, inspiring and magical realism blend",
+        "aspect_ratio": "16:9",
+        "quality": "4K, ultra high detail, photorealistic",
+        "creative_enhancements": [
+            "AI greeting appears as glowing futuristic English text floating above the phone screen",
+            "Subtle animated digital light patterns reflect softly across the screen",
+            "Sunbeam aligns with the phone glow to create a symbolic future-tech moment",
+            "Tiny sparkling particles appear around the AI interface to enhance wonder and magic"
+        ]
+    },
+    "voiceover": {
+        "language": "English",
+        "text": "Today, the world is changing. The name of that change — Artificial Intelligence.",
+        "delivery_style": "Warm, inspiring, gentle storyteller tone with emotional pause before 'Artificial Intelligence'"
+    },
+    "audio": {
+        "sfx": "Soft morning birds, distant rooster crow, breeze through curtains, gentle AI chime with futuristic shimmer",
+        "music": "Soft ambient orchestral with flute textures, slow emotional build, hint of hopeful synth pad underneath"
+    },
+    "emotion": "Wonder, curiosity, hope, awakening possibility",
+    "visual_symbolism": {
+        "theme": "Tradition meets future",
+        "symbolic_elements": [
+            "Golden sunrise represents new knowledge and discovery",
+            "Floating English holographic text symbolizes accessible future technology",
+            "Village setting contrasts and harmonizes with futuristic AI interface"
+        ]
+    },
+    "tts_tool": "TTSMaker.com — paste voiceover text above",
+    "video_tool": "Google Labs Veo 2 — paste video_prompt fields above"
+}

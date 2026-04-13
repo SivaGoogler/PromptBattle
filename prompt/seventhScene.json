@@ -1,0 +1,55 @@
+{
+    "scene_id": "S07",
+    "scene_number": 7,
+    "total_scenes": 8,
+    "project": "AI FOR KIDS",
+    "competition": "Prompt Battle 2026",
+    "timestamp": "0:47 – 0:55",
+    "duration_seconds": 8,
+    "title": "A Message to Every Child",
+    "video_prompt": {
+        "subject": "The same young girl from Scene 1, now confident, calm, and empowered",
+        "action": "She looks directly into the camera, breaking the fourth wall with a warm confident smile. Holding steady eye contact, she delivers her message with quiet strength and reassurance, speaking as if personally encouraging each viewer.",
+        "setting": "Soft cinematic backdrop with a glowing neural network made of abstract luminous circuit lines and floating digital particles, illuminated by warm golden hour light",
+        "background_elements": "Floating light nodes pulsing gently behind her, subtle glowing data streams moving like constellations, soft drifting spark particles, blurred ambient golden light halos",
+        "camera_movement": "Medium close-up with shallow depth of field, static cinematic framing, very subtle slow push-in toward her face as emotional intensity builds",
+        "cinematic_effects": "Warm lens bloom, soft light flicker across her face, delicate film grain texture, glowing neural lines pulsing in sync with emotional rhythm",
+        "color_grade": "Warm golden hour palette — soft orange, cream, white, and subtle electric blue accents",
+        "style": "Personal, intimate, cinematic, emotionally powerful, hopeful, inspiring",
+        "aspect_ratio": "16:9",
+        "quality": "4K cinematic, shallow depth of field, film grain, ultra high detail",
+        "fourth_wall_break": true,
+        "creative_enhancements": [
+            "Neural network lines softly brighten as she speaks key words of encouragement",
+            "Floating digital particles gather subtly around her to symbolize knowledge and connection",
+            "Background light pulses gently in harmony with her emotional delivery",
+            "Final sentence ends with a warm golden glow expanding outward behind her for a hopeful visual climax"
+        ]
+    },
+    "voiceover": {
+        "language": "English",
+        "text": "AI is not your enemy. Understand it, learn it, use it safely — that is your strength.",
+        "delivery_style": "Calm, sincere, empowering narrator tone with gentle emotional emphasis on 'your strength'"
+    },
+    "audio": {
+        "sfx": "Soft heartbeat rhythm fading into subtle glowing digital hum and gentle ambient spark sounds",
+        "music": "Intimate emotional string arrangement with slow hopeful build and warm sustained notes"
+    },
+    "background_visual": {
+        "element": "Glowing neural network pattern",
+        "shape": "Abstract interconnected luminous circuit pathways forming an elegant futuristic web",
+        "color": "Soft gold and electric blue on dark cinematic background",
+        "animation": "Slow pulsing glow with gentle flowing light movement across network lines"
+    },
+    "emotion": "Personal, powerful, memorable, hopeful, inspiring",
+    "visual_symbolism": {
+        "theme": "Knowledge creates confidence",
+        "symbolic_elements": [
+            "Glowing neural network represents understanding and connection with technology",
+            "Warm golden light symbolizes hope, trust, and empowerment",
+            "Direct eye contact creates a personal bond between speaker and viewer"
+        ]
+    },
+    "tts_tool": "TTSMaker.com — paste voiceover text above",
+    "video_tool": "Google Labs Veo 2 — paste video_prompt fields above"
+}

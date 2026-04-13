@@ -1,0 +1,74 @@
+{
+    "scene_id": "S05",
+    "scene_number": 5,
+    "total_scenes": 8,
+    "project": "AI FOR KIDS",
+    "competition": "Prompt Battle 2026",
+    "timestamp": "0:30 – 0:38",
+    "duration_seconds": 8,
+    "title": "Rules of Being AI Smart",
+    "video_prompt": {
+        "subject": "Dynamic animated infographic featuring four AI safety rules with playful child-friendly icons and futuristic digital interface elements",
+        "action": "Four colorful safety rule cards appear one by one with smooth animated transitions. Each card reveals with glowing motion effects, animated icons, and bold English text overlays. Friendly cartoon child characters interact with each rule visually, pointing, reacting, and guiding attention.",
+        "setting": "Bright clean digital white background with floating geometric shapes, soft glowing interface lines, and colorful animated design accents",
+        "background_elements": "Floating shield icons, animated spark lines, subtle moving digital grid patterns, bouncing educational symbols, glowing circular motion graphics behind each rule card",
+        "camera_movement": "Static centered infographic layout with dynamic zoom pulses as each rule appears; gentle floating parallax movement for layered depth",
+        "cinematic_effects": "Soft glow highlights, animated particle sparkles during transitions, holographic card edges, subtle motion blur on slide-ins",
+        "color_grade": "Bright white background with bold vibrant palette — red, green, gold, blue, and soft neon accents",
+        "style": "Flat 2D animation mixed with modern motion infographic design, child-friendly, clean, energetic, educational",
+        "aspect_ratio": "16:9",
+        "quality": "HD animation, ultra sharp text, vibrant polished visuals",
+        "creative_enhancements": [
+            "Each rule card appears with a glowing digital shield pulse to symbolize protection",
+            "Animated English keywords highlight in bold as each voiceover phrase is spoken",
+            "Friendly cartoon children make expressive gestures matching each rule’s meaning",
+            "Sparkling AI interface particles connect all four rules into one unified smart safety network"
+        ]
+    },
+    "safety_rules": [
+        {
+            "rule_number": 1,
+            "icon": "🚫",
+            "display_text": "Don't share your name, address, or school name",
+            "animation": "Slide in from left with glowing red shield pulse"
+        },
+        {
+            "rule_number": 2,
+            "icon": "🤔",
+            "display_text": "Don't blindly trust everything AI says",
+            "animation": "Slide in from right with bouncing question icons"
+        },
+        {
+            "rule_number": 3,
+            "icon": "👨‍👩‍👧",
+            "display_text": "Always ask a trusted adult",
+            "animation": "Pop in from bottom with warm glowing ring"
+        },
+        {
+            "rule_number": 4,
+            "icon": "🚨",
+            "display_text": "Report any harmful or wrong content immediately",
+            "animation": "Fade in with alert glow and flashing border"
+        }
+    ],
+    "voiceover": {
+        "language": "English",
+        "text": "Use AI smartly. Always remember these four rules.",
+        "delivery_style": "Confident, encouraging, friendly narrator tone with clear emphasis on 'four rules'"
+    },
+    "audio": {
+        "sfx": "Soft magical chime for each rule reveal, gentle swipe transitions, subtle sparkle sounds on icon animations",
+        "music": "Light uplifting educational background tune with playful digital rhythm and positive energy"
+    },
+    "emotion": "Empowerment, responsibility, confidence, smart awareness",
+    "visual_symbolism": {
+        "theme": "Safety through smart digital habits",
+        "symbolic_elements": [
+            "Glowing shield pulses represent protection and safe choices",
+            "Connected spark lines symbolize all rules working together for digital safety",
+            "Animated child guides represent confidence in learning responsible AI use"
+        ]
+    },
+    "tts_tool": "TTSMaker.com — paste voiceover text above",
+    "video_tool": "Google Labs Veo 2 or Canva Animator — paste video_prompt fields above"
+}

@@ -1,0 +1,48 @@
+{
+    "scene_id": "S02",
+    "scene_number": 2,
+    "total_scenes": 8,
+    "project": "AI FOR KIDS",
+    "competition": "Prompt Battle 2026",
+    "timestamp": "0:07 – 0:14",
+    "duration_seconds": 7,
+    "title": "AI Helping in the Classroom",
+    "video_prompt": {
+        "subject": "A diverse group of students aged 10–12 in neat school uniforms, gathered around an interactive smart tablet in a classroom",
+        "action": "The students watch as an AI tutor displays a colorful animated math problem with glowing 3D numbers and floating geometric shapes. One struggling boy suddenly understands the solution, his eyes widening with excitement as his face lights up with joy.",
+        "setting": "Bright futuristic classroom with modern desks, colorful educational charts, sunlight streaming through large windows, digital screens softly glowing in the background",
+        "background_elements": "Open notebooks, pencils scattered on desks, animated formulas floating above tablet screen, classmates smiling and reacting with curiosity, sunlight reflections on polished floor",
+        "camera_movement": "Starts with close-up on the confused boy’s focused expression, then rack focus shifts dramatically to the glowing tablet screen, ending with a slow circular pan around the group capturing their excitement",
+        "cinematic_effects": "Floating holographic math symbols, soft light rays through windows, subtle glow from tablet reflecting on students’ faces, shallow depth of field for emotional emphasis",
+        "color_grade": "Bright blues, warm school yellow, vibrant white highlights with energetic classroom tones",
+        "style": "Cinematic, educational, warm, realistic with inspiring futuristic touches",
+        "aspect_ratio": "16:9",
+        "quality": "4K, ultra high detail, photorealistic",
+        "creative_enhancements": [
+            "Animated English math equations float above the tablet in glowing holographic form",
+            "Glowing geometric shapes rotate gently in the air as the AI explains the lesson",
+            "The boy’s moment of understanding triggers a soft radiant light effect around his face",
+            "Tablet emits subtle futuristic spark trails to symbolize AI-powered learning"
+        ]
+    },
+    "voiceover": {
+        "language": "English",
+        "text": "When we struggle in studies, AI becomes our helpful friend.",
+        "delivery_style": "Warm, encouraging, uplifting storyteller tone with gentle emphasis on 'helpful friend'"
+    },
+    "audio": {
+        "sfx": "Soft success chime, pencil scratches on paper, light tablet interaction sounds, quiet classroom ambience",
+        "music": "Light uplifting orchestral background with playful piano and curious hopeful tones"
+    },
+    "emotion": "Excitement, academic joy, discovery, confidence",
+    "visual_symbolism": {
+        "theme": "Learning made magical through technology",
+        "symbolic_elements": [
+            "Floating math equations represent knowledge becoming easier to understand",
+            "Glowing tablet light symbolizes AI as a guide in education",
+            "The boy’s bright expression reflects the power of discovery and confidence"
+        ]
+    },
+    "tts_tool": "TTSMaker.com — paste voiceover text above",
+    "video_tool": "Google Labs Veo 2 — paste video_prompt fields above"
+}

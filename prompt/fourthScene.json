@@ -1,0 +1,55 @@
+{
+    "scene_id": "S04",
+    "scene_number": 4,
+    "total_scenes": 8,
+    "project": "AI FOR KIDS",
+    "competition": "Prompt Battle 2026",
+    "timestamp": "0:21 – 0:30",
+    "duration_seconds": 9,
+    "title": "CAUTION — The Dark Side (Safety Awareness)",
+    "video_prompt": {
+        "subject": "The same young girl from Scene 1, sitting alone in her room while chatting on her smartphone with an unknown online stranger",
+        "action": "She reads incoming messages on her glowing phone screen when a flashing red AI safety alert suddenly interrupts the chat. Her expression changes from curiosity to concern. She quickly stops typing, closes the chat window, places the phone face down, steps away from it, and immediately calls her mother for help.",
+        "setting": "Quiet home bedroom in the evening, dim ambient lighting, soft shadows across the room, phone screen casting glow on her face",
+        "background_elements": "Desk lamp faintly glowing, schoolbooks left open on table, curtains moving gently in night breeze, warning light reflections flickering across walls",
+        "camera_movement": "Starts with an extreme close-up on suspicious incoming messages, cuts to dramatic close-up of flashing red warning alert, then slowly pulls back into a wide cinematic shot as she steps away from the phone",
+        "cinematic_effects": "Screen glow illuminating her worried face, flashing red warning reflections, subtle screen glitch effect during alert trigger, shallow depth of field for emotional tension",
+        "color_grade": "Cool blue-grey cinematic tones with bold warning red highlights and muted shadows",
+        "style": "Tense, cautionary, realistic, cinematic, emotionally impactful",
+        "aspect_ratio": "16:9",
+        "quality": "4K, ultra high detail, photorealistic",
+        "tone_shift": "Clear dramatic contrast from previous warm scenes — colder, darker, and more serious atmosphere",
+        "creative_enhancements": [
+            "Suspicious chat messages appear as floating translucent message bubbles around the phone before disappearing at alert trigger",
+            "Red warning alert expands holographically across the screen with animated flashing hazard lines",
+            "Subtle digital glitch ripple effect symbolizes hidden online danger",
+            "As she steps away, the phone glow fades sharply to emphasize her decision to stay safe"
+        ]
+    },
+    "voiceover": {
+        "language": "English",
+        "text": "But beware! Misinformation can come through AI too. Don't trust strangers. Never share your personal information with anyone.",
+        "delivery_style": "Serious, protective, cautionary narrator tone with strong emphasis on safety warnings"
+    },
+    "audio": {
+        "sfx": "Low tension ambient drone, warning alert ping, faint notification buzz, sudden silence after chat closes",
+        "music": "Suspenseful low string underscore with dramatic pause after warning alert appears"
+    },
+    "safety_message": {
+        "warning_text_on_screen": "Do Not Trust Strangers Online!",
+        "secondary_text": "Never Share Personal Information",
+        "alert_color": "#FF0000",
+        "alert_icon": "Flashing warning triangle with exclamation mark"
+    },
+    "emotion": "Caution, awareness, concern, responsible action",
+    "visual_symbolism": {
+        "theme": "Technology requires smart and safe choices",
+        "symbolic_elements": [
+            "Red warning alert represents digital danger detection",
+            "Fading phone glow symbolizes stepping away from online risk",
+            "Calling her mother represents trust in real-world guidance and protection"
+        ]
+    },
+    "tts_tool": "TTSMaker.com — paste voiceover text above",
+    "video_tool": "Google Labs Veo 2 — paste video_prompt fields above"
+}

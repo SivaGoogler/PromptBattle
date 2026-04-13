@@ -1,0 +1,56 @@
+{
+    "scene_id": "S03",
+    "scene_number": 3,
+    "total_scenes": 8,
+    "project": "AI FOR KIDS",
+    "competition": "Prompt Battle 2026",
+    "timestamp": "0:14 – 0:21",
+    "duration_seconds": 7,
+    "title": "AI in Everyday Life",
+    "video_prompt": {
+        "subject": "Three children in separate cinematic split-screen panels, each interacting with AI in a unique daily-life moment",
+        "action": {
+            "panel_1": "A girl speaks into her phone as a voice AI assistant instantly translates a difficult English word into simple glowing English definitions floating above the screen",
+            "panel_2": "A boy uses an AI art generator on a tablet to create a stunning symmetrical digital pattern inspired by traditional floor art, with animated glowing design lines forming in real time",
+            "panel_3": "A young student lies in bed under warm blankets while an AI storyteller device reads a bedtime story aloud, projecting soft animated storybook stars and floating characters into the room"
+        },
+        "setting": "Dynamic triple split-screen layout showing three vibrant environments: cozy study corner, colorful art desk workspace, and warm softly lit bedroom at night",
+        "background_elements": {
+            "panel_1": "Bookshelf, notebook, glowing phone reflections, floating translated word bubbles",
+            "panel_2": "Stylus pen, sketch papers, animated art particles, glowing pattern grid on desk",
+            "panel_3": "Night lamp glow, floating storybook sparkles, plush toys, dreamy projected stars on ceiling"
+        },
+        "camera_movement": "Smooth animated transitions between panels with flowing digital swipe effects, gentle zoom-ins on each child during key emotional moments",
+        "cinematic_effects": "Holographic floating text, glowing AI interface particles, spark trails between panel transitions, soft bloom lighting and magical ambient overlays",
+        "color_grade": "Vibrant cinematic palette with warm saffron, vivid green, and luminous blue tones across the three panels",
+        "style": "Playful, energetic, colorful, cinematic, emotionally engaging, realistic with magical futuristic touches",
+        "aspect_ratio": "16:9",
+        "quality": "4K, ultra high detail, photorealistic",
+        "creative_enhancements": [
+            "Floating English translation words appear as glowing holograms in panel one",
+            "AI-generated artwork builds itself in luminous animated strokes in panel two",
+            "Storybook characters softly materialize as glowing projections in panel three",
+            "Digital light ribbons sweep between panels to connect all three AI experiences seamlessly"
+        ]
+    },
+    "voiceover": {
+        "language": "English",
+        "text": "Translation, art, stories — AI helps in everything.",
+        "delivery_style": "Bright, cheerful, inspiring narrator tone with playful emphasis on each keyword"
+    },
+    "audio": {
+        "sfx": "Playful digital whoosh transitions, soft interface chimes, magical sparkle sounds during AI interactions",
+        "music": "Upbeat modern digital orchestral background with playful rhythmic energy and warm melodic accents"
+    },
+    "emotion": "Playful energy, wonder, creativity, joyful discovery",
+    "visual_symbolism": {
+        "theme": "AI as a creative companion in everyday life",
+        "symbolic_elements": [
+            "Floating translated words symbolize accessible knowledge",
+            "Glowing digital art patterns represent creativity enhanced by AI",
+            "Projected bedtime story visuals symbolize imagination brought to life through technology"
+        ]
+    },
+    "tts_tool": "TTSMaker.com — paste voiceover text above",
+    "video_tool": "Google Labs Veo 2 — paste video_prompt fields above"
+}

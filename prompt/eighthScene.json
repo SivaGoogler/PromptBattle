@@ -1,0 +1,65 @@
+{
+    "scene_id": "S08",
+    "scene_number": 8,
+    "total_scenes": 8,
+    "project": "AI FOR KIDS",
+    "competition": "Prompt Battle 2026",
+    "timestamp": "0:55 – 1:00",
+    "duration_seconds": 5,
+    "title": "Title Card — End Slate",
+    "video_prompt": {
+        "subject": "Animated cinematic end title card on a deep black background with glowing futuristic design elements",
+        "action": "The title text appears line by line with luminous glow effects. 'AI FOR KIDS' emerges first in bright electric blue with a radiant pulse burst, followed by the tagline fading upward in elegant gold lettering. Beneath the title, a small animated child silhouette icon appears, surrounded by a rotating AI circuit halo ring. Soft glowing particles drift outward as all elements settle into a final unified composition.",
+        "setting": "Pure black cinematic void background with subtle floating digital particles and faint ambient light streaks",
+        "background_elements": "Tiny glowing particle sparks, soft digital star-like points, faint circuit-line patterns slowly emerging and fading behind the title",
+        "camera_movement": "Static centered composition with subtle cinematic breathing zoom effect for dramatic presence",
+        "cinematic_effects": "Glow bloom pulses, radiant light flares from title text, shimmering particle trails, soft halo diffusion around icon",
+        "color_grade": "Deep black with electric blue neon glow, radiant gold highlights, and subtle white shimmer accents",
+        "style": "Minimal, cinematic, elegant, futuristic, empowering",
+        "aspect_ratio": "16:9",
+        "quality": "4K ultra sharp text rendering, cinematic glow effects, premium polished finish",
+        "creative_enhancements": [
+            "Title letters assemble with glowing digital fragments before becoming solid text",
+            "AI circuit halo rotates slowly above the child icon with pulsing light rings",
+            "Soft golden particle sparks rise beneath the tagline for a magical uplifting finish",
+            "Final frame ends with a subtle expanding light pulse to symbolize hope and future possibility"
+        ]
+    },
+    "title_card_text": {
+        "line_1": {
+            "text": "AI FOR KIDS",
+            "font_style": "Bold, large, futuristic sans-serif with electric blue neon glow",
+            "animation": "Fade in with radiant glow burst and digital fragment assembly effect"
+        },
+        "line_2": {
+            "text": "Learn. Grow. Stay Safe.",
+            "font_style": "Medium elegant gold lettering with soft luminous edge glow",
+            "animation": "Slide up smoothly and fade in with gentle shimmer"
+        }
+    },
+    "icon": {
+        "description": "Small animated child silhouette with a rotating AI circuit halo ring above the head",
+        "color": "Gold and electric blue",
+        "animation": "Gentle pulse glow with slow rotating halo light ring"
+    },
+    "voiceover": {
+        "language": "English",
+        "text": "AI FOR KIDS. Let us Learn. Grow. And Stay Safe.",
+        "delivery_style": "Warm, confident, uplifting closing narrator tone with inspiring final emphasis"
+    },
+    "audio": {
+        "sfx": "Final orchestral impact hit, soft glowing shimmer trail, then complete silence",
+        "music": "Full orchestral cinematic climax with one strong emotional final note fading into silence"
+    },
+    "emotion": "Resolution, empowerment, inspiration, hopeful closure",
+    "visual_symbolism": {
+        "theme": "A bright and safe future through knowledge",
+        "symbolic_elements": [
+            "Electric blue title glow represents innovation and technology",
+            "Golden tagline symbolizes wisdom, growth, and trust",
+            "Rotating AI halo above child icon reflects guided intelligence and future potential"
+        ]
+    },
+    "tts_tool": "TTSMaker.com — paste voiceover text above",
+    "video_tool": "Google Labs Veo 2 or Canva — paste video_prompt fields above"
+}
